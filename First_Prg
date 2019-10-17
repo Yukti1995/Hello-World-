@@ -1,0 +1,4 @@
+row_1=['Hello World' , 'Yukti', 19]
+row_1.append(Canada)
+print(len(row_1))
+print(row_1)
